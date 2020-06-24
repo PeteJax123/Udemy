@@ -3,3 +3,5 @@ Text doc one.
 Adding another line of text. 
 
 Adding 3rd line
+
+Adding line 4
